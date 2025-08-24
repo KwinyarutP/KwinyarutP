@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kwinyarut Poungsangthanakul</h1>
 <p>I am a third year Computer Engineering student in the International Program at KMUTT in Bangkok, Thailand. I believe there is always have many more things to learn and I want to be an eager learner, continually expanding my knowledge and skills.</p>
 
-- 🔭 I’m currently working on **Frontend development**
+- 🔭 I’m currently working on **Data Engineer and Fronted Development**
 
 - 🌱 I’m currently learning **Machine Learning**
 
