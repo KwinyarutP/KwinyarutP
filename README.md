@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kwinyarut Poungsangthanakul</h1>
-<p>I am a fourth year Computer Engineering student in the International Program at KMUTT Bangkok, Thailand. I believe there is always have many more things to learn and I want to be an eager learner, continually expanding my knowledge and skills.</p>
+<p> I believe there is always have many more things to learn and I want to be an eager learner, continually expanding my knowledge and skills.</p>
 
-- 🔭 I’m currently working on **Data Engineer and Fronted Development**
 - 📫 How to reach me **kwinyarut2546@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
